@@ -13,7 +13,6 @@ const MobileBrowser = () => {
     setWebPage(url);
   };
 
-  
   return (
   
     <View style={{ flex: 1, marginTop:27 }}>
